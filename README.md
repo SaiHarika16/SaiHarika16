@@ -12,7 +12,7 @@ Greetings! I am Sai Harika, a third-year student at Chaitanya Bharathi Institute
 - 🔍 Exploring the fascinating world of machine learning
 - 🤖 Enthusiastic about Artificial Intelligence
 - 💬 Feel free to ask me about Python, Data Science, and Machine Learning
-- 📫 Reach out via [Email](saiharika2005@gmail.com) or [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/sai-harika-usikarla-6303452b0/))
+- 📫 Reach out via [Email](saiharika2005@gmail.com) or [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/sai-harika-usikarla-6303452b0/)
 
 ## 🛠️ Skills
 
