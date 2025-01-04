@@ -1,9 +1,5 @@
 # Hello, I'm Sai Harika! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=SaiHarika16&color=blue)
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-
 ## About Me
 
 Greetings! I am Sai Harika, a third-year student at Chaitanya Bharathi Institute of Technology (CBIT) in Hyderabad, Telangana, India. I am currently majoring in Artificial Intelligence and Data Science. My academic journey has equipped me with a solid foundation in programming and data analysis, and I am committed to continuously expanding my expertise in these areas. My exploration into the fields of data science and machine learning is driven by a desire to solve real-world challenges through innovative solutions.
