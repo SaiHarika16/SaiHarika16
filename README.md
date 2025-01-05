@@ -1,67 +1,18 @@
-# Hello, I'm Sai Harika! 👋
+# 💫 About Me:
+🎓 6th Semester Student at CBIT, Hyderabad  <br>🌱 Continuously honing my DSA and development skills  <br>🔍 Expanding my expertise in data science and machine learning through hands-on, real-time projects  <br>🤖 Enthusiastic about the possibilities of AI and its impact  <br>💬 Feel free to ask me about Python, Data Science, or Machine Learning  <br>👯 Open to collaborating on innovative and impactful projects  <br>📫 Reach out via [LinkedIn](https://www.linkedin.com/in/sai-harika-usikarla-6303452b0/) or [Email](mailto:saiharika2005@gmail.com)  <br>✨ About me: Always learning, always building, and always open to new challenges!  
 
-## About Me
-Hey! I am Sai Harika, a third-year student at Chaitanya Bharathi Institute of Technology (CBIT) in Hyderabad, Telangana, India. I am currently majoring in Artificial Intelligence and Data Science. My academic journey has equipped me with a solid foundation in programming and data analysis, and I am committed to continuously expanding my expertise in these areas. My exploration into the fields of data science and machine learning is driven by a desire to solve real-world challenges through innovative solutions.
 
-- 📍 Based in Hyderabad, Telangana, India
-- 🎓 Currently in my sixth semester at CBIT Hyderabad
-- 🌱 Focused on DSA and development skills
-- 🔍 Exploring the fascinating world of machine learning
-- 🤖 Enthusiastic about Artificial Intelligence
-- 💬 Feel free to ask me about Python, Data Science, and Machine Learning
-- 📫 Reach out via [Email](saiharika2005@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sai-harika-usikarla-6303452b0/)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sai-harika-usikarla-6303452b0/) 
 
-## 🛠️ Skills
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SaiHarika16&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SaiHarika16&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiHarika16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Programming Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SaiHarika16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### Web Development:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-
-### Data Science & Machine Learning:
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Soft Skills:
-- 👫 Team Collaboration
-- 🗣️ Communication
-- ⏰ Time Management
-
-## 📚 Projects & Achievements
-
-### Hackathons
-- 🏆 Participated in Smart India Hackathon (SIH) for two consecutive years (2023, 2024)
-- 🥇 Participated in multiple college hackathons
-
-### Personal Projects
-- **Meal Muse**: A meal recommendation system developed as part of my curriculum
-
-## 🔭 Current Focus
-
-I am currently dedicating my efforts to enhancing my knowledge and skills in Data Structures and Algorithms (DSA) and exploring development technologies. I am also delving into the exciting field of machine learning.
-
-## 💼 Interests
-
-I am eager to collaborate with individuals who share a passion for Data Science, Machine Learning, and Artificial Intelligence.
-
-## 📬 Connect with Me
-
-- **Email**: [saiharika2005@gmail.com](mailto:saiharika2005@gmail.com)
-- **LinkedIn**: [Sai Harika](https://www.linkedin.com/in/sai-harika-usikarla-6303452b0/)
-
-## 📊 GitHub Stats
-
-![SaiHarika16's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiHarika16&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiHarika16&layout=compact&theme=radical)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
