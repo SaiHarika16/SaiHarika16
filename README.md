@@ -1,8 +1,7 @@
 # Hello, I'm Sai Harika! 👋
 
 ## About Me
-
-Greetings! I am Sai Harika, a third-year student at Chaitanya Bharathi Institute of Technology (CBIT) in Hyderabad, Telangana, India. I am currently majoring in Artificial Intelligence and Data Science. My academic journey has equipped me with a solid foundation in programming and data analysis, and I am committed to continuously expanding my expertise in these areas. My exploration into the fields of data science and machine learning is driven by a desire to solve real-world challenges through innovative solutions.
+Hey! I am Sai Harika, a third-year student at Chaitanya Bharathi Institute of Technology (CBIT) in Hyderabad, Telangana, India. I am currently majoring in Artificial Intelligence and Data Science. My academic journey has equipped me with a solid foundation in programming and data analysis, and I am committed to continuously expanding my expertise in these areas. My exploration into the fields of data science and machine learning is driven by a desire to solve real-world challenges through innovative solutions.
 
 - 📍 Based in Hyderabad, Telangana, India
 - 🎓 Currently in my sixth semester at CBIT Hyderabad
