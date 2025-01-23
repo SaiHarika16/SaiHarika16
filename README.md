@@ -26,6 +26,60 @@ Hey! I am Sai Harika, a third-year student at Chaitanya Bharathi Institute of Te
 #### **Design Tools:**
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 
+# 💻 Tech Stack:
+
+#### **Programming Languages:**
+<div style="display: flex; flex-direction: row;">
+  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" alt="Python" style="width: 60px; height: 60px; animation: bounce 2s infinite;">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" alt="Java" style="width: 60px; height: 60px; animation: bounce 2s infinite 0.2s;">
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white" alt="R" style="width: 60px; height: 60px; animation: bounce 2s infinite 0.4s;">
+</div>
+
+#### **Web Development:**
+<div style="display: flex; flex-direction: row;">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5" style="width: 60px; height: 60px; animation: bounce 2s infinite;">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3" style="width: 60px; height: 60px; animation: bounce 2s infinite 0.2s;">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="width: 60px; height: 60px; animation: bounce 2s infinite 0.4s;">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="React" style="width: 60px; height: 60px; animation: bounce 2s infinite 0.6s;">
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap" style="width: 60px; height: 60px; animation: bounce 2s infinite 0.8s;">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="NodeJS" style="width: 60px; height: 60px; animation: bounce 2s infinite 1s;">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="Express.js" style="width: 60px; height: 60px; animation: bounce 2s infinite 1.2s;">
+</div>
+
+#### **Databases:**
+<div style="display: flex; flex-direction: row;">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB" style="width: 60px; height: 60px; animation: bounce 2s infinite;">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" alt="MySQL" style="width: 60px; height: 60px; animation: bounce 2s infinite 0.2s;">
+</div>
+
+#### **Data Science & Machine Learning:**
+<div style="display: flex; flex-direction: row;">
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black" alt="Matplotlib" style="width: 60px; height: 60px; animation: bounce 2s infinite;">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" alt="NumPy" style="width: 60px; height: 60px; animation: bounce 2s infinite 0.2s;">
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white" alt="SciPy" style="width: 60px; height: 60px; animation: bounce 2s infinite 0.4s;">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white" alt="scikit-learn" style="width: 60px; height: 60px; animation: bounce 2s infinite 0.6s;">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" alt="Pandas" style="width: 60px; height: 60px; animation: bounce 2s infinite 0.8s;">
+</div>
+
+#### **Design Tools:**
+<div style="display: flex; flex-direction: row;">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white" alt="Canva" style="width: 60px; height: 60px; animation: bounce 2s infinite;">
+</div>
+
+<style>
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-30px);
+  }
+  60% {
+    transform: translateY(-15px);
+  }
+}
+</style>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SaiHarika16&theme=dark&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=SaiHarika16&theme=dark&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiHarika16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
